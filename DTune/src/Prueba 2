@@ -1,0 +1,3 @@
+public class Acuario {
+  private ArrayList<Animal> animales;
+}
