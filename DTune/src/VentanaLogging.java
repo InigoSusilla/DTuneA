@@ -1,6 +1,6 @@
 
 public class VentanaLogging {
 String PEDRO;
-String prueba;
-
+String prueba2;
+int edad;
 }
